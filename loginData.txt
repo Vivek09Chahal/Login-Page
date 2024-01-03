@@ -1,5 +1,0 @@
-*Vivek.001*cd "/Users/vivekchahal/Library/CloudStorage/OneDrive-Personal/login form/" && g++ --std=c++17 login.cpp -o login && "/Users/vivekchahal/Library/CloudStorage/OneDrive-Personal/login form/"login
-*cd "/Users/vivekchahal/Library/CloudStorage/OneDrive-Personal/login form/" && g++ --std=c++17 login.cpp -o login && "/Users/vivekchahal/Library/CloudStorage/OneDrive-Personal/login form/"login*cd "/Users/vivekchahal/Library/CloudStorage/OneDrive-Personal/login form/" && g++ --std=c++17 login.cpp -o login && "/Users/vivekchahal/Library/CloudStorage/OneDrive-Personal/login form/"login
-*cd "/Users/vivekchahal/Library/CloudStorage/OneDrive-Personal/login form/" && g++ --std=c++17 login.cpp -o login && "/Users/vivekchahal/Library/CloudStorage/OneDrive-Personal/login form/"login*cd "/Users/vivekchahal/Library/CloudStorage/OneDrive-Personal/login form/" && g++ --std=c++17 login.cpp -o login && "/Users/vivekchahal/Library/CloudStorage/OneDrive-Personal/login form/"login
-Vivek*vivekchahal1156@gmail.com*13589111222
-Kahkashan*kahkashantarannumnaaz@gmail.com*13589111222vivek*vivek11chal@gmail.com*13589111222
